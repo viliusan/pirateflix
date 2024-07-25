@@ -1,0 +1,25 @@
+{
+  "name": "pirateflix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^5.3.2",
+    "execa": "^0.8.0",
+    "inquirer": "^10.1.2",
+    "torrent-search-api": "^2.1.4",
+    "webtorrent-cli": "^5.1.2"
+  },
+  "devDependencies": {
+    "@types/execa": "^2.0.0",
+    "@types/torrent-search-api": "^2.0.3",
+    "typescript": "^5.5.4"
+  }
+}
