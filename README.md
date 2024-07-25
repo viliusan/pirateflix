@@ -2,6 +2,8 @@
 
 - clone repo
 - yarn
+
+## Usage
 - yarn start
 
 ## Credits
