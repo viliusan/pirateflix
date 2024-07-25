@@ -7,7 +7,7 @@
 - yarn start
 
 ## Todo
-- Add dynamic support for different media players.
+- Add dynamic support for different media players. (Currently only VLC is supported)
 - Add subtitles.
 - Cleanup code.
 
